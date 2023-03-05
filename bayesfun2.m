@@ -1,3 +1,4 @@
+#octave
 n_pars = 3;
 n_points = 10;
 p_true = (rand(n_pars, 1) - 0.5).*2; # generate random parameters
