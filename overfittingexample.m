@@ -1,3 +1,4 @@
+%matlab
 n_pars = 4;
 n_points = 16;
 p_true = (rand(n_pars, 1) - 0.5).*2; % generate random parameters
